@@ -1,6 +1,6 @@
 package com.wantoper.DP;
 
-public class LB62 {
+public class LeetCode_62 {
     public static void main(String[] args) {
         System.out.println(uniquePaths(3,7));
     }
